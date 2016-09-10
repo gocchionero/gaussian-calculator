@@ -1,5 +1,5 @@
 # Gaussian Calculator
-The Gaussian Calculator is a rudimentary C# implementation of the analytical framework of "functions of random variables" described in the article:
+The Gaussian Calculator is a rudimentary C# implementation of the analytical framework of "functions of random variables" described in this article:
 
 http://www.occhionero.info/opssp.aspx
 
