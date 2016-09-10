@@ -11,6 +11,8 @@ Using this approach, it is not necessary to proceed to the full solution of the 
 
 In a normal trading/risk scenario, the ability to evolve the probability density one step into the future may be satisfactory, as it does not require to deal with the complexity of the associated algebraic, equations usually arising in the theory of difference equations and having degree equal to the number of weight coefficients.
 
-The source code is split into two files of a Windows form application: a program and a Gaussian class library. This should facilitate those who plan to extract the class library, modify it or use it under another application or spreadsheet. For example, it can easily be brought to Excel by the use of the ExcelDNA library appending the corresponding attribute. It can also be called by any other managed languages such as VB.Net or F#, depending on the language/paradigm adopted by the programmer.
+The source code is available on GitHub at the following address:
 
 https://github.com/gocchionero/gaussian-calculator
+
+and is split into two files of a Windows form application: a program and a Gaussian class library. This should facilitate those who plan to extract the class library, modify it or use it under another application or spreadsheet. For example, it can easily be brought to Excel by the use of the ExcelDNA library appending the corresponding attribute. It can also be called by any other managed languages such as VB.Net or F#, depending on the language/paradigm adopted by the programmer.
