@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DA17D8F6-0CC9-476D-9CF6-8008B726835E}</ProjectGuid>
+    <ProjectGuid>{4083DB25-572F-6FBE-4865-437FFF60C6AC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GaussianCalculator</RootNamespace>
