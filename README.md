@@ -13,4 +13,4 @@ In a normal trading/risk scenario, the ability to evolve the probability density
 
 The source code is split into two files: a Windows form and a Gaussian class library. This should facilitate those who plan to extract the library, modify it or use it under another application or spreadsheet. For example, it can easily be brought to Excel by the use of the ExcelDNA library and the corresponding attribute. It can also be called by any other managed languages such as VB.Net or F#, depending on the language/paradigm adopted by the programmer.
 
-https://github.com/gocchionero/gaussian-calculator.git
+https://github.com/gocchionero/gaussian-calculator
