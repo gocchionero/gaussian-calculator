@@ -27,7 +27,7 @@ namespace Quant
         }
 
 
-        //Overloaded Operators
+        //Overloaded Operators: implement arithmetic operations between random variables
         public static Gaussian operator +(Gaussian g1, Gaussian g2) // Sum of two random variables
         {
             return new Gaussian(g1.Avg + g2.Avg, Math.Sqrt(Math.Pow(g1.StDev, 2) + Math.Pow(g2.StDev, 2)));
